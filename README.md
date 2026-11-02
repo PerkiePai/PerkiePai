@@ -11,7 +11,7 @@
   <em>🌿 "Even the most magnificent song eventually reaches its end. But I hope this tune of mine will remain in the hearts of those who hear it." — Venti 🌿</em>
 </p>
 
-## 🌬️ About Me
+### 🌬️ About Me
 
 ```anemo
 🪶  Bard by day, developer by night
@@ -21,7 +21,7 @@
 📍  Teyvat  ·  Nation of Freedom
 ```
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <p align="center">
 
@@ -48,7 +48,7 @@
 
 </p>
 
-## 📊 Stats — *"The wind records all tales"*
+### 📊 Stats — *"The wind records all tales"*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PerkiePai&show_icons=true&theme=dark&bg_color=0d2b2e&title_color=4DD0E1&icon_color=ffd700&text_color=e0f7fa&border_color=1a5c5e&hide_border=false&rank_icon=github" height="160" />
@@ -59,7 +59,7 @@
   <img src="https://streak-stats.demolab.com?user=PerkiePai&theme=dark&background=0d2b2e&ring=4DD0E1&fire=ffd700&currStreakLabel=4DD0E1&sideLabels=e0f7fa&dates=1a5c5e&border=1a5c5e" />
 </p>
 
-## 🦅 Projects
+### 🦅 Projects
 
 **AI-Powered Financial Data Transformation Platform** - A human-gated AWS Bedrock multi-tool agent for XLSX transformation, integrating Pydantic-validated guardrails and event-driven serverless infrastructure on AWS Step Functions, FastAPI on Lambda, DynamoDB, S3, and SQS. *(NTT DATA Digital Innovation Challenge 2026)*
 
@@ -67,7 +67,7 @@
 
 **Traffic Incident Detection System** - A real-time pipeline combining YOLO object detection with ByteTrack to estimate vehicle speed, heading, and collision vectors.
 
-## 🌊 Connect
+### 🌊 Connect
 
 <p align="center">
   <a href="mailto:karitt.tha@gmail.com">
