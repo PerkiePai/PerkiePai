@@ -1,14 +1,5 @@
-<p align="center">
-  <img src="venti-genshin-impact-8k-wallpaper-uhdpaper.com-106@0@e.jpg" width="100%" style="border-radius:16px;" alt="Venti - Archon of Anemo" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2b2e,50:1a5c5e,100:00e5cc&height=80&section=header&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&width=750&lines=%F0%9F%8C%BF+Karitt+Thanawan+%F0%9F%8C%BF;%F0%9F%AA%B6+AI+%26+Computer+Vision+Engineer;%F0%9F%9A%81+Drone+Navigation+%C2%B7+3D+Mapping+%C2%B7+CV;%E2%9C%A8+Born+to+be+an+Adventurer+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<h1 align="center">Karitt Thanawan</h1>
+<h3 align="center">⚔️ Born to be Adventurer ⚔️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vision-Anemo-%234DD0E1?style=for-the-badge" />
