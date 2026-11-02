@@ -1,18 +1,15 @@
-<h1 align="center">Karitt Thanawan</h1>
-<h3 align="center">⚔️ Born to be Adventurer ⚔️</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&width=750&lines=Karitt+Thanawan;%E2%9A%94%EF%B8%8F+Born+to+be+Adventurer+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vision-Anemo-%234DD0E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nation-Chulalongkorn%20University-%231a5c5e?style=for-the-badge" />
 </p>
 
----
-
 <p align="center">
   <em>🌿 "Even the most magnificent song eventually reaches its end. But I hope this tune of mine will remain in the hearts of those who hear it." — Venti 🌿</em>
 </p>
-
----
 
 ## 🌬️ About Me
 
@@ -20,11 +17,9 @@
 🪶  Bard by day, developer by night
 🌿  Wandering through codebases like the wind through Mondstadt
 🎵  Turning logic into poetry, one commit at a time
-🦋  Currently learning: [your tech stack]
+🦋  Currently learning: CUDA / GPU Programming
 📍  Teyvat  ·  Nation of Freedom
 ```
-
----
 
 ## ⚡ Tech Stack
 
@@ -53,8 +48,6 @@
 
 </p>
 
----
-
 ## 📊 Stats — *"The wind records all tales"*
 
 <p align="center">
@@ -66,8 +59,6 @@
   <img src="https://streak-stats.demolab.com?user=PerkiePai&theme=dark&background=0d2b2e&ring=4DD0E1&fire=ffd700&currStreakLabel=4DD0E1&sideLabels=e0f7fa&dates=1a5c5e&border=1a5c5e" />
 </p>
 
----
-
 ## 🦅 Projects
 
 **AI-Powered Financial Data Transformation Platform** - A human-gated AWS Bedrock multi-tool agent for XLSX transformation, integrating Pydantic-validated guardrails and event-driven serverless infrastructure on AWS Step Functions, FastAPI on Lambda, DynamoDB, S3, and SQS. *(NTT DATA Digital Innovation Challenge 2026)*
@@ -75,8 +66,6 @@
 **GPS-Denied Drone Navigation** - A Visual-Inertial Odometry framework using optical flow, achieving 6.8 cm ATE on the TUM-VI benchmark and 0.09% drift over 22.5 km, with a high-fidelity PX4 + Isaac Sim + Cesium simulation pipeline and Gaussian Splatting for 3D spatial mapping.
 
 **Traffic Incident Detection System** - A real-time pipeline combining YOLO object detection with ByteTrack to estimate vehicle speed, heading, and collision vectors.
-
----
 
 ## 🌊 Connect
 
